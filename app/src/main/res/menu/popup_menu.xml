@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_add_text_note"
+        android:title="Add Text Note"/>
+    <item
+        android:id="@+id/popup_add_image_note"
+        android:title="Add Image Note"/>
+</menu>
